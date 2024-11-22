@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    user1:
+      email: test@test.com
+      name: user1 
+      password: "#abCD123" # To be replaced with hashed password
+    nvidiademo:
+      email: demo@test.com
+      name: nvidiademo
+      password: "#abCd234" # To be replaced with hashed password
+    cdac:
+      email: cdac@test.com
+      name: cdac
+      password: "#cdac99924"
+
+
+
+cookie:
+  name: "cookie"
+  key: "1234"
+  expiry_days: 30      
