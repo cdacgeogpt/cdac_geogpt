@@ -79,42 +79,65 @@ def create_zip_from_images(image_files, zip_name):
     return zip_buffer
 
 # Streamlit UI
-st.title("PDF Image Extractor")
 
-# File uploader
-uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"], accept_multiple_files=False)
+def main():
+    st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
+    st.title("GeoGPT - PDF Table Extractor")
 
-if uploaded_file:
-    # Save the uploaded file temporarily
-    file_path = os.path.join(TMP_FOLDER, uploaded_file.name)
-    with open(file_path, "wb") as f:
-        f.write(uploaded_file.getbuffer())
-    st.success(f"File uploaded: {uploaded_file.name}")
+    # Authentication
+    if "authentication_status" not in st.session_state:
+        st.session_state["authentication_status"] = None
 
-    # Display the PDF using pdf_viewer
-    st.subheader("Uploaded PDF:")
-    with open(file_path, "rb") as pdf_file:
-        pdf_binary = pdf_file.read()
-        pdf_viewer(input=pdf_binary, width=800, height=500)
+    if (
+        st.session_state["authentication_status"] is None
+        or st.session_state["authentication_status"] is False
+    ):
+        st.warning("Please log in to access this application.")
+        st.stop()
 
-    # Count and display the number of pages
-    num_pages = count_pdf_pages(file_path)
-    st.write(f"Number of pages: {num_pages}")
+    st.title("PDF Image Extractor")
+    
+    # File uploader
+    uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"], accept_multiple_files=False)
+    
+    if uploaded_file:
+        # Save the uploaded file temporarily
+        file_path = os.path.join(TMP_FOLDER, uploaded_file.name)
+        with open(file_path, "wb") as f:
+            f.write(uploaded_file.getbuffer())
+        st.success(f"File uploaded: {uploaded_file.name}")
+    
+        # Display the PDF using pdf_viewer
+        st.subheader("Uploaded PDF:")
+        with open(file_path, "rb") as pdf_file:
+            pdf_binary = pdf_file.read()
+            pdf_viewer(input=pdf_binary, width=800, height=500)
+    
+        # Count and display the number of pages
+        num_pages = count_pdf_pages(file_path)
+        st.write(f"Number of pages: {num_pages}")
+    
+        # Button to extract images and text
+        if st.button("Extract Images"):
+            output_folder = os.path.join(TMP_FOLDER, "extracted_images")
+            image_files = extract_images_from_pdf(file_path, output_folder)
+    
+            # Button to download images as a ZIP file
+            if image_files:
+                zip_name = f"{uploaded_file.name.split('.')[0]}_images.zip"
+                zip_buffer = create_zip_from_images(image_files, zip_name)
+    
+                # Streamlit download button
+                st.download_button(
+                    label="Download Images as ZIP",
+                    data=zip_buffer,
+                    file_name=zip_name,
+                    mime="application/zip"
+                )
+                
+if __name__ == "__main__":
+    # Mock authentication for testing (replace with real logic)
+    if "authentication_status" not in st.session_state:
+        st.session_state["authentication_status"] = True  # Set to False to test auth flow
 
-    # Button to extract images and text
-    if st.button("Extract Images"):
-        output_folder = os.path.join(TMP_FOLDER, "extracted_images")
-        image_files = extract_images_from_pdf(file_path, output_folder)
-
-        # Button to download images as a ZIP file
-        if image_files:
-            zip_name = f"{uploaded_file.name.split('.')[0]}_images.zip"
-            zip_buffer = create_zip_from_images(image_files, zip_name)
-
-            # Streamlit download button
-            st.download_button(
-                label="Download Images as ZIP",
-                data=zip_buffer,
-                file_name=zip_name,
-                mime="application/zip"
-            )
+    main()
