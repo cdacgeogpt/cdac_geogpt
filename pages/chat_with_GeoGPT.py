@@ -86,7 +86,7 @@ def main(col1, col2, placeholder, config):
 
         with row1_1:
             # File upload logic...
-            if st.session_state.value1 >= 0 and st.session_state["salir_1"] == False:
+            if st.session_state.value1 >= 0:
                 uploaded_files = st.file_uploader(
                     "Upload PDF file",
                     type=("pdf"),
@@ -117,7 +117,7 @@ def main(col1, col2, placeholder, config):
                 with row1_1:
                     if "pdf_viewer" not in st.session_state:
                         st.session_state["pdf_viewer"] = None
-                    if st.session_state.value1 >= 1 and st.session_state["salir_1"] == False:
+                    if st.session_state.value1 >= 1:
                         binary_data = ss.pdf_ref1
                         width = 900 if st.session_state["vcol1doc"] == 50 else 350 if st.session_state["vcol1doc"] == 20 else 700
                         pdf_viewer(input=binary_data, width=width, height=400, key="pdf_viewer")
@@ -135,12 +135,12 @@ def main(col1, col2, placeholder, config):
                                 logging.info("Vector Store created from document pages")
                                 st.session_state["upload_state1"] = f"Number pages document {len(st.session_state['data1'])}\nVector Store created from document pages"
 
-                        if st.session_state["click_button_parse1"] == True and st.session_state["vector_store1"] != None and st.session_state["salir_1"] == False:
+                        if st.session_state["click_button_parse1"] == True and st.session_state["vector_store1"] != None:
                             logging.info(f"Status bottom parse {st.session_state['click_button_parse1']}")
                             input_prompt = st.text_input("Ask your queries 👇 👇", key="pdf_query")
                             st.session_state["chat_true1"] = "chat activo"
                             
-                            if input_prompt and st.session_state["salir_1"] == False and st.session_state["chat_true1"] == "chat activo":
+                            if input_prompt and st.session_state["chat_true1"] == "chat activo":
                                 if st.session_state["llamaindex1"] == None:
                                     st.session_state["llamaindex1"] = create_chat_engine(st.session_state["vector_store1"])
                                 response = st.session_state["llamaindex1"].chat(input_prompt)
@@ -160,7 +160,6 @@ def main(col1, col2, placeholder, config):
 
     except Exception as e:
         # handle exception
-        st.session_state["salir_1"] = True
         placeholder.empty()
         text = print_stack()
         text = "Speak with PDF Page " + text
@@ -181,10 +180,10 @@ if __name__ == "__main__":
         st.session_state.runpage = "main.py"
         st.switch_page("main.py")
     
-    if "salir_1" not in st.session_state:
-        st.session_state["salir_1"] = False
+    if "restart" not in st.session_state:
+        st.session_state["restart"] = False
 
-    if st.session_state["salir_1"] == False:
+    if st.session_state["restart"] == False:
         # Empty placeholder for session objects
         placeholder_1 = st.empty()
         with placeholder_1.container():
