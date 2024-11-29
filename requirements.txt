@@ -24,3 +24,4 @@ orjson
 tabula-py==2.10.0
 PyPDF2==3.0.1
 jpype1
+openpyxl
