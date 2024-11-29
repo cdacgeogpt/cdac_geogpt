@@ -23,5 +23,5 @@ ipython
 orjson
 tabula-py==2.10.0
 PyPDF2==3.0.1
-default-jre-headless
+default-jre
 jpype1
