@@ -27464,3 +27464,887 @@ tornado.websocket.WebSocketClosedError
 [2024-11-20 14:13:51,139] [ScriptRunner.scriptThread] [INFO    ] Name : cdac, Autentication Status: True, Username: cdac
 [2024-11-20 14:13:51,139] [ScriptRunner.scriptThread] [INFO    ] Name : cdac, Autentication Status: True, Username: cdac
 [2024-11-20 14:13:51,139] [ScriptRunner.scriptThread] [INFO    ] Name : cdac, Autentication Status: True, Username: cdac
+[2024-11-29 09:50:00,379] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:50:00,379] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:50:00,379] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:50:03,383] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:50:03,383] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:50:03,383] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:50:03,383] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:50:03,383] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:50:03,383] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:50:03,544] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 09:50:03,544] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 09:50:03,544] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 09:50:04,199] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 09:50:04,199] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 09:50:04,199] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 09:50:04,215] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 09:50:04,215] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 09:50:04,215] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 09:54:28,767] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:28,767] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:28,767] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:32,007] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:54:32,007] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:54:32,007] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:54:32,007] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:54:32,007] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 09:54:38,563] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:38,563] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:38,563] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:38,563] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:54:38,563] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:06,676] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:06,676] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:06,676] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:06,676] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:06,676] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:23,428] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:23,428] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:23,428] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:23,428] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 09:57:23,428] [ScriptRunner.scriptThread] [INFO    ] Root Dir: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages, Temp Folder: C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] Failed to import jpype dependencies. Fallback to subprocess.
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] Failed to import jpype dependencies. Fallback to subprocess.
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] Failed to import jpype dependencies. Fallback to subprocess.
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] Failed to import jpype dependencies. Fallback to subprocess.
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] Failed to import jpype dependencies. Fallback to subprocess.
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] No module named 'jpype'
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] No module named 'jpype'
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] No module named 'jpype'
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] No module named 'jpype'
+[2024-11-29 10:02:45,040] [ScriptRunner.scriptThread] [WARNING ] No module named 'jpype'
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:10:28,248] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:10:28,923] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:10:28,923] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:10:28,923] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:10:28,923] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:10:28,923] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:10:28,939] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:10:28,939] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:10:28,939] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:10:28,939] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:10:28,939] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:32,728] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:38,657] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:10:54,267] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:12,583] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:17,613] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:11:23,328] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: True, Username: None
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:47,843] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:51,534] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:12:53,558] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:06,740] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:13:08,052] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:47,504] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:52,027] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:15:54,016] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:00,980] [ScriptRunner.scriptThread] [INFO    ] Name: None, Authentication Status: None, Username: None
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:12,700] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:16:14,020] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:35:40,349] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:38:07,163] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:41:06,140] [ScriptRunner.scriptThread] [INFO    ] Name: cdac, Authentication Status: True, Username: cdac
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,941] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:45,951] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,309] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:46,322] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,851] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,867] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,871] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,876] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,884] [ScriptRunner.scriptThread] [INFO    ] Speak with PDF Page: file uploaded e-Nomination (1).pdf
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:51,928] [ScriptRunner.scriptThread] [INFO    ] Number of pages e-Nomination (1).pdf: 3
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,519] [ScriptRunner.scriptThread] [INFO    ] Root Dir C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\pages Temp Folder C:\Users\YAYTHISH KANNAA G S\Downloads\cdac_geogpt-main (1)\cdac_geogpt-main\tmp
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,530] [ScriptRunner.scriptThread] [INFO    ] Model microsoft/phi-3-small-128k-instruct initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,534] [ScriptRunner.scriptThread] [INFO    ] Model Embeddings: NV-Embed-QA initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized
+[2024-11-29 10:43:53,538] [ScriptRunner.scriptThread] [INFO    ] LLama Index initialized

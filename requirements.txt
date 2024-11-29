@@ -21,3 +21,5 @@ pydantic==2.9.2
 fastapi
 ipython
 orjson
+tabula==2.10.0
+PyPDF2==3.0.1
