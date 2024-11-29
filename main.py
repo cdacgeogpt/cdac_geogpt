@@ -50,7 +50,7 @@ def add_custom_css():
         /* Sidebar styling */
         .sidebar .sidebar-content {
             background-color: #f9f9f9;
-            padding: 10px;
+            padding: 2px;
         }
 
         /* Welcome text styling */
