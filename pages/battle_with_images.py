@@ -47,7 +47,7 @@ def extract_images_from_pdf(uploaded_file_path, output_folder):
         if image_files:
             for img_path in image_files:
                 # Set the width to 500 pixels or adjust as necessary
-                st.image(img_path, caption=os.path.basename(img_path), use_container_width=250)
+                st.image(img_path, caption=os.path.basename(img_path), use_container_width=500)
         else:
             st.info("No images found in the document.")
 
