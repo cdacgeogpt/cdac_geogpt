@@ -4,13 +4,14 @@ from tabula import read_pdf
 import pandas as pd
 from PyPDF2 import PdfReader
 import os
+import time
 
 # Define temporary folder for storing uploaded files
 TMP_FOLDER = "tmp"
 os.makedirs(TMP_FOLDER, exist_ok=True)
 
-# Function to extract tables from the uploaded PDF
-def extract_tables_from_pdf(pdf_path, output_excel, start_page=None, end_page=None):
+# Function to extract tables from the uploaded PDF with progress and percentage
+def extract_tables_with_progress(pdf_path, output_excel, start_page=None, end_page=None):
     reader = PdfReader(pdf_path)
     total_pages = len(reader.pages)
     error_pages = []
@@ -22,7 +23,12 @@ def extract_tables_from_pdf(pdf_path, output_excel, start_page=None, end_page=No
     else:
         pages_to_process = range(1, total_pages + 1)
 
-    for page in pages_to_process:
+    # Initialize progress bar
+    progress_bar = st.progress(0)
+    status_text = st.empty()  # Placeholder for status message
+    total_steps = len(pages_to_process)
+
+    for step, page in enumerate(pages_to_process, start=1):
         try:
             # Attempt to read tables from the current page
             tables = read_pdf(pdf_path, pages=str(page), multiple_tables=True)
@@ -30,6 +36,12 @@ def extract_tables_from_pdf(pdf_path, output_excel, start_page=None, end_page=No
                 extracted_tables.append((page, tables))
         except Exception as e:
             error_pages.append(page)
+
+        # Update progress bar and percentage
+        progress = int((step / total_steps) * 100)
+        progress_bar.progress(progress)
+        status_text.text(f"Processing, please wait... {progress}% completed")
+        time.sleep(0.1)  # Optional: Simulate delay for better visualization
 
     # Save extracted tables to Excel if any
     if extracted_tables:
@@ -64,7 +76,7 @@ def main():
 
     if st.session_state["reset_trigger"]:
         st.session_state["reset_trigger"] = False
-        st.rerun()
+        st.experimental_rerun()
 
     # File upload section
     uploaded_file = st.file_uploader(
@@ -108,7 +120,7 @@ def main():
             # Button to extract tables
             if st.button("Extract Tables"):
                 output_excel = os.path.join(TMP_FOLDER, f"{pdf_name}_extracted_tables.xlsx")
-                total_pages, error_pages, excel_path = extract_tables_from_pdf(
+                total_pages, error_pages, excel_path = extract_tables_with_progress(
                     pdf_path, output_excel, start_page=start_page, end_page=end_page
                 )
 
@@ -137,10 +149,8 @@ def main():
 
 
 if __name__ == "__main__":
+    # Mock authentication for testing (replace with real logic)
     if "authentication_status" not in st.session_state:
-        st.session_state["authentication_status"] = None
-    if st.session_state["authentication_status"] == None or st.session_state["authentication_status"] == False:
-        st.session_state.runpage = "main.py"
-        st.switch_page("main.py")
+        st.session_state["authentication_status"] = True  # Set to False to test auth flow
 
     main()
