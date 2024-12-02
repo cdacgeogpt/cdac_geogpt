@@ -76,7 +76,7 @@ def main():
 
     if st.session_state["reset_trigger"]:
         st.session_state["reset_trigger"] = False
-        st.experimental_rerun()
+        st.rerun()
 
     # File upload section
     uploaded_file = st.file_uploader(
