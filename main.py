@@ -93,7 +93,7 @@ def main(config):
     add_custom_css()
 
     # Display logo at the top
-    logo_path = os.path.join(os.path.dirname(_file_), "logo.png")
+    logo_path = os.path.join(os.path.dirname(__file__), "logo.png")
     if os.path.exists(logo_path):
         st.image(logo_path, use_container_width=False, width=200)
 
@@ -150,7 +150,7 @@ def main(config):
 
 if __name__ == "__main__":
     # Set up environment
-    ROOT_DIR = os.path.dirname(os.path.abspath(_file_))
+    ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
     OUT_FOLDER = os.path.join(ROOT_DIR, "out")
     TMP_FOLDER = os.path.join(ROOT_DIR, "tmp")
     ANSWERS_FOLDER = os.path.join(ROOT_DIR, "answers")
