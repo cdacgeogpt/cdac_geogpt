@@ -1,14 +1,14 @@
 import os
 import streamlit as st
-from google_auth_oauthlib.flow import Flow
-from google.oauth2.credentials import Credentials
-from yaml.loader import SafeLoader
-from streamlit_authenticator import Authenticate
 import yaml
+from streamlit_authenticator import Authenticate
+from yaml.loader import SafeLoader
 import logging
-import time
 from pathlib import Path
-from urllib.parse import urlencode
+from dotenv import dotenv_values
+from detectaicore import set_up_logging
+import time
+
 
 def add_custom_css():
     """
@@ -28,17 +28,17 @@ def add_custom_css():
         }
 
         .footer {
-            animation: fadeIn 2s;
-            position: relative;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            text-align: center;
-            padding: 10px 0;
-            font-size: 14px;
-            color: white;
-            margin-top: 50px;
-        }
+                animation: fadeIn 2s;
+                position: relative; /* Changed from fixed to relative */
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                text-align: center;
+                padding: 10px 0;
+                font-size: 14px;
+                color: white;
+                margin-top: 50px; /* Ensures spacing from content */
+            }
 
         /* Button hover effect */
         .stButton button:hover {
@@ -47,10 +47,24 @@ def add_custom_css():
             transition: 0.3s ease;
         }
 
+        /* Sidebar styling */
+        .sidebar .sidebar-content {
+            background-color: #f9f9f9;
+            padding: 2px;
+        }
+
+        /* Welcome text styling */
+        .welcome-text {
+            font-size: 24px;
+            color: #2c3e50;
+            text-align: center;
+            margin-top: 20px;
+        }
         </style>
         """,
         unsafe_allow_html=True,
     )
+
 
 def animated_welcome():
     """
@@ -61,23 +75,13 @@ def animated_welcome():
         welcome_placeholder.markdown(f"<h3 style='text-align: center;'>Welcome{'!' * i}</h3>", unsafe_allow_html=True)
         time.sleep(0.3)
     welcome_placeholder.empty()
-    
-def google_login(client_secrets_path, redirect_uri):
-    """
-    Generates Google OAuth URL for login and returns flow instance.
-    """
-    flow = Flow.from_client_secrets_file(
-        client_secrets_path,
-        scopes=["https://www.googleapis.com/auth/userinfo.email"],
-        redirect_uri=redirect_uri,
-    )
-    auth_url, _ = flow.authorization_url(prompt="consent")
-    return auth_url, flow
+
 
 def main(config):
     """
-    Main App Logic
+    Main page APP
     """
+    # Set up page configuration
     st.set_page_config(
         layout="wide",
         page_title="CDAC GeoGPT",
@@ -85,41 +89,26 @@ def main(config):
         initial_sidebar_state="expanded",
     )
 
+    # Apply custom CSS
     add_custom_css()
 
     # Display logo at the top
-    logo_path = os.path.join(os.path.dirname(__file__), "logo.png")
+    logo_path = os.path.join(os.path.dirname(_file_), "logo.png")
     if os.path.exists(logo_path):
         st.image(logo_path, use_container_width=False, width=200)
 
-    # Initialize session state variables for authentication
+
+    # Authentication
     if "authentication_status" not in st.session_state:
         st.session_state["authentication_status"] = None
     if "name" not in st.session_state:
         st.session_state["name"] = None
     if "username" not in st.session_state:
         st.session_state["username"] = None
-    if "google_credentials" not in st.session_state:
-        st.session_state["google_credentials"] = None
 
     st.title("Welcome to CDAC GeoGPT 🌍")
 
-    # Google Login
-    client_secrets_path = os.path.join(os.path.dirname(__file__), "client_secrets.json")
-    redirect_uri = "https://cdacgeogpt.streamlit.app/" # Replace with your deployed app URL
-
-    auth_url, flow = google_login(client_secrets_path, redirect_uri)
-
-    # Google Login Form
-    st.subheader("Login with Google")
-    if st.button("Login with Google"):
-        st.markdown(
-            f"<a href='{auth_url}' target='_self'>Click here to login with Google</a>",
-            unsafe_allow_html=True,
-        )
-
-    # Traditional Login Form
-    st.subheader("Login with Username/Password")
+    # Main app content
     authenticator = Authenticate(
         config["credentials"],
         config["cookie"]["name"],
@@ -135,19 +124,9 @@ def main(config):
         f'Username: {st.session_state["username"]}'
     )
 
-    # Handle Google OAuth redirect response using st.query_params
-    query_params = st.query_params
-    if "code" in query_params:
-        credentials, user_email = handle_google_auth(flow)
-        if credentials:
-            st.session_state["google_credentials"] = credentials
-            st.session_state["authentication_status"] = True
-            st.session_state["name"] = user_email
-            st.rerun()
-
     if st.session_state["authentication_status"]:
         authenticator.logout("Logout", "sidebar")
-        st.success(f"Welcome, *{st.session_state['name']}*!")
+        st.success(f"Welcome, {st.session_state['name']}!")
         animated_welcome()  # Display animated welcome
         with st.container():
             st.metric("Active Users", 128, delta="+12 this week")
@@ -162,33 +141,47 @@ def main(config):
         """
         <div class="footer">
             © 2024 C-DAC Chennai AI for EarthScience. All Rights Reserved.<br>
-            Made with ❤️ by Arun, Yaythish Kannaa
+            Made with ❤ by Arun, Yaythish Kannaa
         </div>
         """,
         unsafe_allow_html=True,
     )
 
-# Update handle_google_auth
-def handle_google_auth(flow):
-    """
-    Handles Google OAuth Authentication response.
-    """
-    query_params = st.query_params  # Use st.query_params to get query parameters
-    
-    # Check if the response contains the 'code' parameter
-    if "code" in query_params:
-        try:
-            # Fetch the credentials using the authorization code
-            credentials = flow.fetch_token(authorization_response=query_params["code"])
-            user_email = credentials.id_token.get("email", "Unknown User")
-            return credentials, user_email
-        except Exception as e:
-            st.error(f"Error during Google authentication: {e}")
-            return None, None
-    return None, None
 
-if __name__ == "__main__":
-    ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+if _name_ == "_main_":
+    # Set up environment
+    ROOT_DIR = os.path.dirname(os.path.abspath(_file_))
+    OUT_FOLDER = os.path.join(ROOT_DIR, "out")
+    TMP_FOLDER = os.path.join(ROOT_DIR, "tmp")
+    ANSWERS_FOLDER = os.path.join(ROOT_DIR, "answers")
+    SAVE_FOLDER = os.path.join(ROOT_DIR, "saves")
+
+    # Logging setup
+    LOGS_PATH = os.path.join(ROOT_DIR, "logs")
+    Path(LOGS_PATH).mkdir(parents=True, exist_ok=True)
+    script_name = os.path.join(LOGS_PATH, "debug.log")
+
+    if not set_up_logging(
+        console_log_output="stdout",
+        console_log_level="info",
+        console_log_color=True,
+        logfile_file=script_name,
+        logfile_log_level="info",
+        logfile_log_color=False,
+        log_line_template="%(color_on)s[%(asctime)s] [%(threadName)s] [%(levelname)-8s] %(message)s%(color_off)s",
+    ):
+        print("Failed to set up logging.")
+        raise AttributeError("Failed to create logging.")
+
+    os.makedirs(OUT_FOLDER, exist_ok=True)
+    os.makedirs(TMP_FOLDER, exist_ok=True)
+    os.makedirs(ANSWERS_FOLDER, exist_ok=True)
+    os.makedirs(SAVE_FOLDER, exist_ok=True)
+
+    # Read environment variables
+    config = dotenv_values(os.path.join(ROOT_DIR, "keys", ".env"))
+    if "NVIDIA_API_KEY" not in os.environ:
+        os.environ["NVIDIA_API_KEY"] = config.get("NVIDIA_API_KEY")
 
     with open(os.path.join(ROOT_DIR, "keys/config.yaml")) as file:
         auth = yaml.load(file, Loader=SafeLoader)
