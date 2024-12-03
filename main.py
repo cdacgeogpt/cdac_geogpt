@@ -148,7 +148,7 @@ def main(config):
     )
 
 
-if _name_ == "__main__":
+if __name__ == "__main__":
     # Set up environment
     ROOT_DIR = os.path.dirname(os.path.abspath(_file_))
     OUT_FOLDER = os.path.join(ROOT_DIR, "out")
