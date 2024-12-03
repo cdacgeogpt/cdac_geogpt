@@ -106,7 +106,7 @@ def main(config):
 
     # Google Login
     client_secrets_path = os.path.join(os.path.dirname(__file__), "client_secrets.json")
-    redirect_uri = "http://cdacgeogpt.streamlit.app" # Replace with your deployed app URL
+    redirect_uri = "https://cdacgeogpt.streamlit.app" # Replace with your deployed app URL
 
     auth_url, flow = google_login(client_secrets_path, redirect_uri)
 
